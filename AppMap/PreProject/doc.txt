@@ -1,0 +1,38 @@
+```json
+{
+  "doc_Pre_Projeto": {
+    "titulo": "Elaboração de Script para Análise Técnica da Criptomoeda Ethereum (ETH)",
+    "data_criacao": "2024-12-31 17:25:49",
+    "descricao": "O usuário está solicitando a elaboração de um script destinado à análise técnica da criptomoeda Ethereum (ETH). A análise técnica envolve o estudo de dados de preços históricos e volume de negociação, com o objetivo de identificar tendências e padrões no comportamento de mercado. O script deve incluir funções para calcular indicadores técnicos comumente utilizados, como médias móveis, bandas de Bollinger, MACD (Moving Average Convergence Divergence), e RSI (Relative Strength Index). Além disso, é importante que o script seja capaz de coletar dados em tempo real de APIs de exchanges, permitir a visualização de gráficos interativos e gerar relatórios com insights sobre a performance do Ethereum ao longo do tempo. Este recurso seria útil para traders e investidores que buscam tomar decisões informadas com base em análises de mercado.",
+    "objetivos": [
+      "Coletar e analisar dados de preços históricos e volume de negociação.",
+      "Identificar tendências e padrões no comportamento do mercado.",
+      "Calcular indicadores técnicos (médias móveis, bandas de Bollinger, MACD, RSI).",
+      "Coletar dados em tempo real de APIs de exchanges.",
+      "Gerar gráficos interativos e relatórios detalhados sobre a performance do Ethereum."
+    ],
+    "requisitos": {
+      "funcionais": [
+        "O script deve ter funções para calcular diversos indicadores técnicos.",
+        "Deve ser capaz de conectar-se a APIs de exchanges para coleta de dados em tempo real.",
+        "O usuário deve conseguir visualizar gráficos interativos."
+      ],
+      "nao_funcionais": [
+        "O script deve ser eficiente no processamento de grandes volumes de dados.",
+        "A interface de visualização deve ser intuitiva e de fácil compreensão."
+      ]
+    },
+    "tecnologias": [
+      "Python",
+      "APIs de dados de exchanges (ex: Binance, Coinbase)",
+      "Bibliotecas para gráficos interativos (ex: Plotly, Matplotlib)"
+    ],
+    "stakeholders": [
+      "Usuário final (traders e investidores)",
+      "Desenvolvedor",
+      "Gerente de projeto"
+    ]
+  },
+  "name_doc_Pre_Projeto": "Documento Pre-Projeto - Análise Técnica da Criptomoeda Ethereum (ETH)"
+}
+```

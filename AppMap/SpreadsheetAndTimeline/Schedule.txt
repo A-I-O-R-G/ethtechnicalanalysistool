@@ -1,0 +1,91 @@
+Com base no Documento Pre Projeto sobre a Elaboração de Script para Análise Técnica da Criptomoeda Ethereum (ETH), aqui estão o cronograma e a planilha do projeto em formato JSON:
+
+**Cronograma do Projeto:**
+```json
+{
+  "cronograma": {
+    "etapas": [
+      {
+        "nome": "Coleta e análise de dados históricos",
+        "data_inicio": "2025-01-02",
+        "data_fim": "2025-01-10",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Identificação de tendências e padrões de mercado",
+        "data_inicio": "2025-01-11",
+        "data_fim": "2025-01-20",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Cálculo de indicadores técnicos",
+        "data_inicio": "2025-01-21",
+        "data_fim": "2025-02-01",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Implementação da coleta de dados em tempo real",
+        "data_inicio": "2025-02-02",
+        "data_fim": "2025-02-10",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Geração de gráficos interativos e relatórios",
+        "data_inicio": "2025-02-11",
+        "data_fim": "2025-02-20",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Testes e validação do script",
+        "data_inicio": "2025-02-21",
+        "data_fim": "2025-02-28",
+        "responsavel": "Gerente de projeto"
+      },
+      {
+        "nome": "Lançamento da versão final",
+        "data_inicio": "2025-03-01",
+        "data_fim": "2025-03-05",
+        "responsavel": "Gerente de projeto"
+      }
+    ]
+  },
+  "nome_do_cronograma": "Cronograma - Elaboração de Script para Análise Técnica da Criptomoeda Ethereum (ETH)"
+}
+```
+
+**Planilha do Projeto:**
+```json
+{
+  "planilha": {
+    "objetivos": [
+      "Coletar e analisar dados de preços históricos e volume de negociação.",
+      "Identificar tendências e padrões no comportamento do mercado.",
+      "Calcular indicadores técnicos (médias móveis, bandas de Bollinger, MACD, RSI).",
+      "Coletar dados em tempo real de APIs de exchanges.",
+      "Gerar gráficos interativos e relatórios detalhados sobre a performance do Ethereum."
+    ],
+    "requisitos_funcionais": [
+      "O script deve ter funções para calcular diversos indicadores técnicos.",
+      "Deve ser capaz de conectar-se a APIs de exchanges para coleta de dados em tempo real.",
+      "O usuário deve conseguir visualizar gráficos interativos."
+    ],
+    "requisitos_nao_funcionais": [
+      "O script deve ser eficiente no processamento de grandes volumes de dados.",
+      "A interface de visualização deve ser intuitiva e de fácil compreensão."
+    ],
+    "tecnologias": [
+      "Python",
+      "APIs de dados de exchanges (ex: Binance, Coinbase)",
+      "Bibliotecas para gráficos interativos (ex: Plotly, Matplotlib)"
+    ],
+    "stakeholders": [
+      "Usuário final (traders e investidores)",
+      "Desenvolvedor",
+      "Gerente de projeto"
+    ]
+  },
+  "nome_da_planilha": "Planilha - Elaboração de Script para Análise Técnica da Criptomoeda Ethereum (ETH)"
+}
+```
+
+Esses documentos abrangem as etapas do projeto, objetivos, requisitos e tecnologias pertinentes, além dos stakeholders envolvidos. Se houver mais alguma informação ou ajustes que você gostaria de adicionar, por favor, me avise!

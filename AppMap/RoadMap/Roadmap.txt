@@ -1,0 +1,72 @@
+Aqui está o Roadmap do Projeto no formato JSON, com base no cronograma, planilha e documento pré-projeto encontrados:
+
+```json
+{
+  "Roadmap": {
+    "titulo": "Roadmap - Elaboração de Script para Análise Técnica da Criptomoeda Ethereum (ETH)",
+    "objetivos": [
+      "Coletar e analisar dados de preços históricos e volume de negociação.",
+      "Identificar tendências e padrões no comportamento do mercado.",
+      "Calcular indicadores técnicos (médias móveis, bandas de Bollinger, MACD, RSI).",
+      "Coletar dados em tempo real de APIs de exchanges.",
+      "Gerar gráficos interativos e relatórios detalhados sobre a performance do Ethereum."
+    ],
+    "tecnologias": [
+      "Python",
+      "APIs de dados de exchanges (ex: Binance, Coinbase)",
+      "Bibliotecas para gráficos interativos (ex: Plotly, Matplotlib)"
+    ],
+    "stakeholders": [
+      "Usuário final (traders e investidores)",
+      "Desenvolvedor",
+      "Gerente de projeto"
+    ],
+    "etapas_do_projeto": [
+      {
+        "nome": "Coleta e análise de dados históricos",
+        "data_inicio": "2025-01-02",
+        "data_fim": "2025-01-10",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Identificação de tendências e padrões de mercado",
+        "data_inicio": "2025-01-11",
+        "data_fim": "2025-01-20",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Cálculo de indicadores técnicos",
+        "data_inicio": "2025-01-21",
+        "data_fim": "2025-02-01",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Implementação da coleta de dados em tempo real",
+        "data_inicio": "2025-02-02",
+        "data_fim": "2025-02-10",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Geração de gráficos interativos e relatórios",
+        "data_inicio": "2025-02-11",
+        "data_fim": "2025-02-20",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Testes e validação do script",
+        "data_inicio": "2025-02-21",
+        "data_fim": "2025-02-28",
+        "responsavel": "Gerente de projeto"
+      },
+      {
+        "nome": "Lançamento da versão final",
+        "data_inicio": "2025-03-01",
+        "data_fim": "2025-03-05",
+        "responsavel": "Gerente de projeto"
+      }
+    ]
+  }
+}
+```
+
+Este roadmap inclui os objetivos do projeto, as tecnologias a serem utilizadas, os stakeholders envolvidos e as etapas do projeto com suas respectivas datas e responsáveis. Se precisar de mais informações ou ajustes, estou à disposição!
